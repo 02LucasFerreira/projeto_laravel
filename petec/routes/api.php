@@ -14,6 +14,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
-});
+// Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+//     return $request->user();
+// });
+// get - consulta
+// post - > cadastro
+// put - atualização (alteração)
+// delete - exclusão de dados
+
+Route::get('/pedidos','');
