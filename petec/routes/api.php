@@ -22,4 +22,4 @@ use Illuminate\Support\Facades\Route;
 // put - atualização (alteração)
 // delete - exclusão de dados
 
-Route::get('/pedidos','');
+// Route::get('/pedidos','');
