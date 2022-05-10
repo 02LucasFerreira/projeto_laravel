@@ -10,7 +10,7 @@
     <h1> Home </h1>
     <a href="{{ url('./') }}">Home</a>
     <br>
-    <h1> Contact </h1>
-    <a href="{{ url('./contact') }}">Contact</a>
+    <h1> About </h1>
+    <a href="{{ url('./about') }}">About</a>
 </body>
 </html>

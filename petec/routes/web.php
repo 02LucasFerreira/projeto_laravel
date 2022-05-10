@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AboutControlle;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,8 +16,12 @@ use App\Http\Controllers\AboutControlle;
 |
 */
 
+/*
 Route::get('/', function () {
     return view('welcome');
 });
+*/
 
-Route::get('/etec',[AboutControlle::class,'index']);
+Route::get('/',[HomeController::class,'index']);
+Route::get('/contact',[ContactController::class,'index']);
+Route::get('/about',[AboutControlle::class,'index']);
