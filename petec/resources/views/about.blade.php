@@ -12,5 +12,39 @@
     <br>
     <h1> Contact </h1>
     <a href="{{ url('./contact') }}">Contact</a>
+
+    <br>
+
+    <h1>Sobre Nós</h1>
+
+    <br>
+
+    <h2>Criadores</h2>
+
+    <br>
+    
+    <img src="./src/floppafino.jpg">
+
+    <h3>Floppafino Hernandez Gutierrez</h3>
+
+    <p>Nasceu em Nice, França, em 1969. Mudou-se para Málaga na Espanha, com 12</p>
+
+    <br>
+
+    <img src="./src/shinba.png">
+
+    <h3>Presidente Shinba</h3>
+
+    <p></p>
+
+    <br>
+
+    <h2>História</h2>
+
+    <p>
+        Criada para ajudar a perservar a história e imagens dos maravilhosos cachorros shiba-inu para preservar 
+        a espécie para as futuras gerações da humanidade, para caso a humanidade e os shibas forem extintos
+        a memória deles nao seja esquecida
+    </p>
 </body>
 </html>

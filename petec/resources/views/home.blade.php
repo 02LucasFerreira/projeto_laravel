@@ -19,7 +19,7 @@
 
     <h2>Exibições</h2>
 
-    <h3>Shibas em parks</h3>
+    <h3>Torradinhos em parks</h3>
 
     <img src="./src/13817-o-shiba-inu-carrega-uma-historia-com-var-articles_media_mobile-1.jpg">
 
@@ -40,6 +40,20 @@
     <img src="./src/transferir.jpg">
 
     <br>
+
+    <h3>Queimadinhos</h3>
+
+    <br>
+
+    <img src="./src/82831777-beautiful-black-shiba-inu-dog.jpg">
+
+    <br>
+
+    <img src="./src/istockphoto-1008382716-1024x1024.jpg">
+
+    <br>
+
+    <img src="./src/istockphoto-1008383514-170667a.jpg">
 
 </body>
 </html>
