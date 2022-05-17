@@ -12,5 +12,35 @@
     <br>
     <h1> About </h1>
     <a href="{{ url('./about') }}">About</a>
+
+    <div class="contato">
+        <h2>Entre em contato conosco!</h2>
+    <div class="zap">
+        <a href="#">
+    <img src="./src/zap.png"> Whatsapp
+        </a>
+    </div>
+    <div class="facebook">
+        <a href="#">
+    <img src="./src/facebook.png"> Facebook
+        </a>
+    </div>
+    <div class="wechat">
+        <a href="#">
+    <img src="./src/wechat.png"> Wechat
+        </a>
+    </div>
+    <div class="vk">        
+        <a href="#">
+    <img src="./src/vk.png"> VK
+        </a>
+    </div>
+    <div class="4chan">        
+        <a href="#">
+    <img src="./src/chan.png"> 4Chan
+        </a>
+    </div>
+    </div>
+
 </body>
 </html>

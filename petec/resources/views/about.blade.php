@@ -23,7 +23,7 @@
 
     <br>
     
-    <img src="./src/floppafino.jpg">
+    <img src="{{ asset('./src/floppafino.jpg') }}" alt="" title="">
 
     <h3>Floppafino Hernandez Gutierrez</h3>
 
