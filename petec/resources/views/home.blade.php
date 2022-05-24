@@ -7,7 +7,11 @@
     <title>Museu dos Shibas</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
-<body>
+<body style="background-color: #F5EDDC;">
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Macondo&family=Roboto:wght@300&display=swap');
+</style>
 
 
 <nav class="navbar navbar-light bg-light">
@@ -17,63 +21,112 @@
       Museu Online de Preservação dos Shibas
     </a>
     
-    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="display: flex; flex-direction: row;">
+        <li class="nav-item" style="text-decoration: none;">
+          <a class="nav-link active" aria-current="page" href="{{ url('./') }}">Home</a>
+        </li>
+        <li class="nav-item" style="margin-left: 20px;">
+        <a href="{{ url('./about') }}">About</a>
+        </li>
+        <li class="nav-item" style="margin-left: 20px;">
+        <a href="{{ url('./contact') }}">Contact</a>
         </li>
 </ul>
   </div>
 </nav>
 
-
-
-    <h4> About </h4>
-    <a href="{{ url('./about') }}">About</a>
-    <br>
-    <h4> Contact </h4>
-    <a href="{{ url('./contact') }}">Contact</a>
-
-    <h1>Museu dos shiba-inu</h1>
+    <h1 style="text-align: center; justify-content: center; font-family: 'Macondo', cursive; margin-top:50px; font-size: 5rem;">Museu dos Shiba-Inu</h1>
 
     <br>
 
-    <h2>Exibições</h2>
+    <h2 style="text-align: center; justify-content: center; font-family: 'Roboto', sans-serif; margin-top:50px; font-size:3rem; margin-bottom: 50px">Exibições</h2>
 
-    <h3>Torradinhos em parks</h3>
+    <br>
 
-    <img src="./src/13817-o-shiba-inu-carrega-uma-historia-com-var-articles_media_mobile-1.jpg">
+    <h3 style="padding: 50px 50px 50px 10px;">Torradinhos em parks</h3>
+
+    <div class="col-control" style="display: flex; flex-direction: row;">
+
+    <div class="card" style="width: 300px; margin-right: 20px; margin-left: 10px;">
+  <img src="./src/13817-o-shiba-inu-carrega-uma-historia-com-var-articles_media_mobile-1.jpg" class="card-img-top" style="height: 300px; width:300px;">
+  <div class="card-body">
+    <p class="card-text">Make it home</p>
+  </div>
+</div>
 
     <br>
     
-    <img src="./src/images.jpg">
+    <div class="card" style="width: 300px;  margin-right: 20px;">
+  <img src="./src/images.jpg" class="card-img-top" style="height: 300px; width:300px;">
+  <div class="card-body">
+    <p class="card-text">To your land</p>
+  </div>
+</div>
 
     <br>
 
-    <img src="./src/shiba-inu-caracteristicas-guia-racas.jpg">
+    <div class="card" style="width: 300px;  margin-right: 20px;">
+  <img src="./src/shiba-inu-caracteristicas-guia-racas.jpg" class="card-img-top" style="height: 300px; width:300px;">
+  <div class="card-body">
+    <p class="card-text">Of harmony,</p>
+  </div>
+</div>
 
     <br>
 
-    <img src="./src/Shiba-Inu-lança-programa-de-recompensas-para-22queimadores22-de-tokens-SHIB-350x250.jpeg">
+    <div class="card" style="width: 300px; margin-right: 20px;">
+  <img src="./src/Shiba-Inu-lança-programa-de-recompensas-para-22queimadores22-de-tokens-SHIB-350x250.jpeg" class="card-img-top" style="height: 300px; width:300px; ">
+  <div class="card-body">
+    <p class="card-text">Make it home</p>
+  </div>
+</div>
 
     <br>
 
-    <img src="./src/transferir.jpg">
+    <div class="card" style="width: 300px;  margin-right: 20px;">
+  <img src="./src/transferir.jpg" class="card-img-top" style="height: 300px; width: 300px;">
+  <div class="card-body">
+    <p class="card-text">To your land of purity</p>
+  </div>
+</div>
 
     <br>
 
-    <h3>Queimadinhos</h3>
+    </div>
+
+    <h3 style="padding: 50px 50px 50px 10px;">Queimadinhos</h3>
+
+    <div class="col-control" style="display: flex; flex-direction: row;">
+    
 
     <br>
 
-    <img src="./src/82831777-beautiful-black-shiba-inu-dog.jpg">
+    <div class="card" style="width: 300px;  margin-right: 20px; margin-left: 10px;">
+  <img src="./src/82831777-beautiful-black-shiba-inu-dog.jpg" class="card-img-top" style="height: 300px; width:300px;">
+  <div class="card-body">
+    <p class="card-text">Make it Home</p>
+  </div>
+</div>
 
     <br>
 
-    <img src="./src/istockphoto-1008382716-1024x1024.jpg">
+    <div class="card" style="width: 300px;  margin-right: 20px;">
+  <img src="./src/istockphoto-1008382716-1024x1024.jpg" class="card-img-top" style="height: 300px; width:300px;">
+  <div class="card-body">
+    <p class="card-text">Make it Home</p>
+  </div>
+</div>
 
     <br>
 
-    <img src="./src/istockphoto-1008383514-170667a.jpg">
+    <div class="card" style="width: 300px;  margin-right: 20px;">
+  <img src="./src/istockphoto-1008383514-170667a.jpg" class="card-img-top" style="height: 300px; width:300px;">
+  <div class="card-body">
+    <p class="card-text">Make it Home</p>
+  </div>
+</div>
+
+    </div>
 
 </body>
 </html>
