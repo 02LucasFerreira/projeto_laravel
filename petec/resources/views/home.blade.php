@@ -21,15 +21,15 @@
       Museu Online de Preservação dos Shibas
     </a>
     
-    <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="display: flex; flex-direction: row;">
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="display: flex; flex-direction: row; ">
         <li class="nav-item" style="text-decoration: none;">
-          <a class="nav-link active" aria-current="page" href="{{ url('./') }}">Home</a>
+          <a class="nav-link active" aria-current="page" href="{{ url('./') }}" style="text-decoration: none;">Home</a>
         </li>
         <li class="nav-item" style="margin-left: 20px;">
-        <a href="{{ url('./about') }}">About</a>
+        <a href="{{ url('./about') }}" style="text-decoration: none; color: #000; align-itens: center; justify-content: center;">About</a>
         </li>
         <li class="nav-item" style="margin-left: 20px;">
-        <a href="{{ url('./contact') }}">Contact</a>
+        <a href="{{ url('./contact') }}" style="text-decoration: none; color: #000; align-itens: center; justify-content: center;">Contact</a>
         </li>
 </ul>
   </div>
@@ -50,7 +50,7 @@
     <div class="card" style="width: 300px; margin-right: 20px; margin-left: 10px;">
   <img src="./src/13817-o-shiba-inu-carrega-uma-historia-com-var-articles_media_mobile-1.jpg" class="card-img-top" style="height: 300px; width:300px;">
   <div class="card-body">
-    <p class="card-text">Make it home</p>
+    <p class="card-text">And Slowly, You come to realize.</p>
   </div>
 </div>
 
@@ -59,7 +59,7 @@
     <div class="card" style="width: 300px;  margin-right: 20px;">
   <img src="./src/images.jpg" class="card-img-top" style="height: 300px; width:300px;">
   <div class="card-body">
-    <p class="card-text">To your land</p>
+    <p class="card-text">It's all as it Should be.</p>
   </div>
 </div>
 
@@ -68,7 +68,7 @@
     <div class="card" style="width: 300px;  margin-right: 20px;">
   <img src="./src/shiba-inu-caracteristicas-guia-racas.jpg" class="card-img-top" style="height: 300px; width:300px;">
   <div class="card-body">
-    <p class="card-text">Of harmony,</p>
+    <p class="card-text">If you Game enough,</p>
   </div>
 </div>
 
@@ -77,7 +77,7 @@
     <div class="card" style="width: 300px; margin-right: 20px;">
   <img src="./src/Shiba-Inu-lança-programa-de-recompensas-para-22queimadores22-de-tokens-SHIB-350x250.jpeg" class="card-img-top" style="height: 300px; width:300px; ">
   <div class="card-body">
-    <p class="card-text">Make it home</p>
+    <p class="card-text">You can place your trust In me.</p>
   </div>
 </div>
 
@@ -86,7 +86,7 @@
     <div class="card" style="width: 300px;  margin-right: 20px;">
   <img src="./src/transferir.jpg" class="card-img-top" style="height: 300px; width: 300px;">
   <div class="card-body">
-    <p class="card-text">To your land of purity</p>
+    <p class="card-text">For the love Of life,</p>
   </div>
 </div>
 
@@ -104,7 +104,7 @@
     <div class="card" style="width: 300px;  margin-right: 20px; margin-left: 10px;">
   <img src="./src/82831777-beautiful-black-shiba-inu-dog.jpg" class="card-img-top" style="height: 300px; width:300px;">
   <div class="card-body">
-    <p class="card-text">Make it Home</p>
+    <p class="card-text">There is a Trade on.</p>
   </div>
 </div>
 
@@ -113,7 +113,7 @@
     <div class="card" style="width: 300px;  margin-right: 20px;">
   <img src="./src/istockphoto-1008382716-1024x1024.jpg" class="card-img-top" style="height: 300px; width:300px;">
   <div class="card-body">
-    <p class="card-text">Make it Home</p>
+    <p class="card-text">We can lose It all,</p>
   </div>
 </div>
 
@@ -122,7 +122,7 @@
     <div class="card" style="width: 300px;  margin-right: 20px;">
   <img src="./src/istockphoto-1008383514-170667a.jpg" class="card-img-top" style="height: 300px; width:300px;">
   <div class="card-body">
-    <p class="card-text">Make it Home</p>
+    <p class="card-text">But we'll go down, Figthing</p>
   </div>
 </div>
 
