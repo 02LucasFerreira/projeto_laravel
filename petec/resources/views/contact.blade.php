@@ -16,7 +16,7 @@
 
 <nav class="navbar navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="{{ url('./') }}">
       <img src="src/communityIcon_f6gfuq10ghe61.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
       Museu Online de Preservação dos Shibas
     </a>
@@ -25,11 +25,11 @@
         <li class="nav-item" style="text-decoration: none;">
           <a class="nav-link active" aria-current="page" href="{{ url('./') }}" style="text-decoration: none;">Home</a>
         </li>
-        <li class="nav-item" style="margin-left: 20px;">
-        <a href="{{ url('./about') }}" style="text-decoration: none; color: #000; align-itens: center; justify-content: center;">About</a>
+        <li class="nav-item" style="margin-left: 20px; margin-top: 8px;">
+        <a href="{{ url('./about') }}" style="text-decoration: none; color: #000; align-items: center; justify-content: center;">About</a>
         </li>
-        <li class="nav-item" style="margin-left: 20px;">
-        <a href="{{ url('./contact') }}" style="text-decoration: none; color: #000; align-itens: center; justify-content: center;">Contact</a>
+        <li class="nav-item" style="margin-left: 20px; margin-top: 8px;">
+        <a href="{{ url('./contact') }}" style="text-decoration: none; color: #000; align-items: center; justify-content: center;">Contact</a>
         </li>
 </ul>
   </div>
@@ -39,16 +39,16 @@
         
         <h1  style="text-align: center; justify-content: center; font-family: 'Macondo', cursive; margin-top:50px; font-size: 5rem;">Entre em contato conosco!</h1>
         <div class="itens" style="display: flex; flex-direction: row; justify-content: center; align-itens: center; margin-top: 40px;">
-        <div class="zap">
+        <div class="zap" style="display: flex; flex-direction: row; ">
     <div class="card" style="width: 100px;  margin-right: 100px; margin-top: 40px;">
   <img src="./src/zap.png" class="card-img-top" style="height: 100px; width:125px;">
-  <div class="card-body">
+  <div class="card-body" style="display: flex; flex-direction: row; ">
     <p class="card-text">Zaponga</p>
   </div>
 </div>
 <div class="card" style="width: 100px;  margin-right: 100px; margin-top: 40px;">
   <img src="./src/facebook.png" class="card-img-top" style="height: 75px; width:75px;">
-  <div class="card-body">
+  <div class="card-body" style="display: flex; flex-direction: row; ">
     <p class="card-text">Facebook</p>
   </div>
 </div>

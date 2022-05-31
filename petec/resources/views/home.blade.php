@@ -16,7 +16,7 @@
 
 <nav class="navbar navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="{{ url('./') }}">
       <img src="src/communityIcon_f6gfuq10ghe61.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
       Museu Online de Preservação dos Shibas
     </a>
@@ -25,10 +25,10 @@
         <li class="nav-item" style="text-decoration: none;">
           <a class="nav-link active" aria-current="page" href="{{ url('./') }}" style="text-decoration: none;">Home</a>
         </li>
-        <li class="nav-item" style="margin-left: 20px;">
+        <li class="nav-item" style="margin-left: 20px; margin-top: 8px;">
         <a href="{{ url('./about') }}" style="text-decoration: none; color: #000; align-itens: center; justify-content: center;">About</a>
         </li>
-        <li class="nav-item" style="margin-left: 20px;">
+        <li class="nav-item" style="margin-left: 20px; margin-top: 8px;">
         <a href="{{ url('./contact') }}" style="text-decoration: none; color: #000; align-itens: center; justify-content: center;">Contact</a>
         </li>
 </ul>
@@ -96,7 +96,7 @@
 
     <h3 style="padding: 50px 50px 50px 10px;">Queimadinhos</h3>
 
-    <div class="col-control" style="display: flex; flex-direction: row;">
+    <div class="col-control" style="display: flex; flex-direction: row; margin-bottom: 50px;">
     
 
     <br>
