@@ -58,9 +58,9 @@
     <h3 style="padding: 50px 50px 50px 10px; text-align: center; justify-content: center; align-itens: center;">Floppafino Hernandez Gutierrez</h3>
 
     <p style="text-align: center; justify-content: center; font-family: 'Tiro Devanagari Sanskrit', serif; font-size: 1.5rem; margin-bottom: 50px">Nasceu em Nice, França, em 1969. Mudou-se para Málaga na Espanha, com 12
-  começou a praticar empreendedorismo, vendendo balas no semáforo para sustentar sua familia, depois começou a vender rádios para pagar sua escola, foi nela que conheceu shinba.
- O seu amor por shibas surgiu nas ruas de Nice, onde ele dividia comida juntop aos shibas das ruas, pois não tinha dinheiro para comprar, junto com shinba começara esse projeto
-e ficaram ricos.</p>
+  começou a praticar empreendedorismo, vendendo balas no semáforo para sustentar sua familia, seru sonho era se tornar uma idol, depois começou a vender rádios para pagar sua escola, foi nela que conheceu shinba.
+ O seu amor por shibas surgiu nas ruas de Nice, onde ele dividia comida junto aos shibas das ruas, pois não tinha dinheiro para comprar, conheceu o presidente shinba, que o salvou da
+pobreza, floppafino aceitou receber a marca de cinzas e se tornar um semi-deus do novo mundo dos shibas caso aconteça a Quinta, e assim se tornar uma idol.</p>
 
     <br>
 
@@ -76,7 +76,7 @@ e ficaram ricos.</p>
 
     <h3 style="padding: 50px 50px 50px 10px;text-align: center; justify-content: center;">Presidente Shinba</h3>
 
-    <p></p>
+    <p style="text-align: center; justify-content: center; font-family: 'Tiro Devanagari Sanskrit', serif; font-size: 1.5rem; margin-bottom: 50px;">Nasceu em Londres, em 1930. Nasceu pobre durante o período da crise de 29 e pós-primeira guerra. Cresceu com os horrores da crise pós-guerra, e vivia com fome nas ruas da capital. Para sobreviver, juntou uma gangue de shibas para caçar comida nas redondezas e viverem perigosamente. Embora sua vida fosse sofrida, ele viva feliz com seus amigos shibas. Porém, veio a Quarta Feira de Sangue (o dia mais sombrio para todos os shibas). Machucado, quase morto, visto que era fraco, decide sair de Londres em busca de poder. Em busca de força, ele se aliou tanto com os ingleses quanto com os alemães, matando uma quantidade incontável de pessoas (umas 3 por ai). Com o fim da Guerra, ele perdeu seu propósito e se viu perdido em uma sede inacabável de sangue, até que se encontra com Floppafino. Ao ver o Floppafino, ele se lembra de sua infância sofrida e decide ajudar o floppinha. Juntos, abriram uma empresa financeira e hoje são milionários. Porém, eles não escapariqam tão cedo dos Golden Retrivieres, que buscam finalizar o que começou naquela infame quarta-feira mais de  50 anos atrás</p>
 
     <br>
 
@@ -85,7 +85,11 @@ e ficaram ricos.</p>
     <p style="text-align: center; justify-content: center; font-family: 'Tiro Devanagari Sanskrit', serif; font-size: 1.5rem; margin-bottom: 50px;">
         Criada para ajudar a perservar a história e imagens dos maravilhosos cachorros shiba-inu para preservar 
         a espécie para as futuras gerações da humanidade, para caso a humanidade e os shibas forem extintos
-        a memória deles nao seja esquecida
+        a memória deles nao seja esquecida, ou caso uma nova Quarta Feira de Sangue aconteça, trazendo o fim de 
+        todos os shibas. Na Primeira Quarta, mesmo saindo com a vitória, quase foram extintos, quando Presidente Shinba 
+        declara em cima de uma pilha de cinzas que, enquanto ele estivesse vivo, uma nova Quarta Feira jamais aconteceria.
+        Marcado com a Marca, ele decidiu criar esse site para caso ele falhe nessa missão e a purificação aconteça,
+        os shibas nao sumiriam completamente da Terra
     </p>
 </body>
 </html>
